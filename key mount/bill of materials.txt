@@ -1,0 +1,4 @@
+2 pole keylock switch -- NKK Switches CKL12BFW01 -- Digikey P/N 360-3823-ND
+box panel connector -- WAGO 890-703 or 890-753
+paired male connector -- WAGO 890-213/203 OR 890-253
+
